@@ -1,2 +1,2 @@
 # AppleScript
-This repo contains tools that works in MAC
+This repo contains tools that work in MAC
